@@ -4,11 +4,15 @@
 
 Bienvenidos a mi portafolio, 
 [visita mi proyecto]
-![Proyecto](https://user-images.githubusercontent.com/68167686/105413472-24aeeb80-5c04-11eb-9cd1-ba7425eb7c8c.gif).
-
-## 2. Resumen del proyecto
+![image](https://user-images.githubusercontent.com/68167686/107108843-28985b80-6809-11eb-9ee9-73409a151aea.png)
+## 2. Tecnologías Usadas
 
 En este proyeto se desarollaron las siguientes historias de usuario.
+
+- ReactJs
+- React-Bootstrap
+- CSS
+
 
 #### [Historia de usuario 1] Mesero/a debe poder tomar pedido de cliente
 
