@@ -2,9 +2,9 @@ import React from 'react';
 
 const Skills =()=>{
     return(
-        <section className="container">
-        <div className="col-lg-12 text-center mt-3">
-          <h2 className="title-section line">Habilidades</h2>         
+        <section id="skills"className="container mt-5">
+        <div className="col-lg-12 text-center">
+          <h2 className="title-section line pt-5">Habilidades</h2>         
         </div>
         <div className="col-lg-12 mt-5">
             <div className="row text-center">

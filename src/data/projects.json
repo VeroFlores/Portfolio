@@ -15,11 +15,11 @@
             "link":"https://github.com/VeroFlores/Markdown-Links-Library"
         },
         {
-            "img":"https://user-images.githubusercontent.com/68167686/101968488-76b82680-3bed-11eb-8cd6-4f4ca95db791.png",
-            "title":"Data Lover",
-            "description":"Es una web page que brinda data y estadística básica sobre cada uno de los campeones de League of Legends.",
-            "herramientas":["Javascript","HTML","CSS","Figma","Jest"],
-            "link":"https://veroflores.github.io/Data-Lovers/src/"
+            "img":"https://user-images.githubusercontent.com/68167686/105413472-24aeeb80-5c04-11eb-9cd1-ba7425eb7c8c.gif",
+            "title":"Burguer Queen",
+            "description":"Es un sistema de manejo de órdenes para un restaurante con funcionalidades para meseros y cocineros.",
+            "herramientas":["Javascript","HTML","CSS","ReactJs","ReactDom","Firebase","Jest"],
+            "link":"https://veroflores.github.io/LIM013-fe-burger-queen/"
         }
         
     ],

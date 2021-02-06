@@ -5,16 +5,16 @@ import curriculum from '../assets/dowload/Flores Cv.pdf'
 const AboutMe =()=>{
     return(
 
-          <div className="container mt-1 pt-5">
+          <div id="about-me" className="container mt-5">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 className="text-center title-section line">Sobre mí</h2>
+                    <h2 className="text-center title-section line pt-5">Sobre mí</h2>
                 </div>
             </div>
           <div className="row align-items-center">
             <div className="col-lg-6 order-lg-1">
               <div className="p-3 d-flex justify-content-center">
-                <img className="img-fluid me" src={photo} alt="profile"/>
+                <img className="img-fluid image" src={photo} alt="profile"/>
               </div>
             </div>
             <div className="col-lg-6 order-lg-1">

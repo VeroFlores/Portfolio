@@ -2,12 +2,11 @@ import React from 'react';
 import Projects from '../data/projects.json';
 
 const Portfolio =()=>{
-    console.log(Projects.projects);
     return(
-        <div  className="bg-container">
-            <div class="container mt-3">
+        <div id="portfolio" className="bg-container">
+            <div class="container mt-5">
             <div class="col-md-12 pt-4">
-                <h2 className="text-center title-section line">Proyectos</h2>
+                <h2 className="text-center title-section line pt-5">Proyectos</h2>
             </div>
             <div className="row">
             {Projects.projects.map((order,index)=>(
@@ -18,6 +17,7 @@ const Portfolio =()=>{
                             alt={order.title}/>
                         <div className="card-body">
                             <p className="card-text">{order.description}</p>
+                            <p className="card-text">Tecnologías:</p>
                             <div className="card-text">{
                                 order.herramientas.map((tool,index)=>(  
                                     <span key={"n"+index}className="tags-tool">{tool}</span>
