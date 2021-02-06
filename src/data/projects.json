@@ -1,0 +1,34 @@
+{
+    "projects":[
+        {
+            "img":"https://user-images.githubusercontent.com/63525613/97816683-cf96b580-1c64-11eb-84ae-301af283fa34.gif",
+            "title":"Red Social",
+            "description":"Petlandia es una red social pensada en los amantes de las mascotas, podrán crear posts,editarlos o eliminarlos.",
+            "herramientas":["Javascript","HTML","CSS","Firebase","Figma"],
+            "link":"https://veroflores.github.io/Social-Network/src/#/signIn"
+        },
+        {
+            "img":"https://user-images.githubusercontent.com/68167686/103462163-67f6f800-4cf1-11eb-8c70-b3a76b5b160f.gif",
+            "title":"Markdown Links Finder",
+            "description":"Es una librería desarrollada con NodeJs que analiza archivos markdown para extraer los links y analizarlos.",
+            "herramientas":["Javascript","HTML","CSS","NodeJs","Jest","Axios"],
+            "link":"https://github.com/VeroFlores/Markdown-Links-Library"
+        },
+        {
+            "img":"https://user-images.githubusercontent.com/68167686/101968488-76b82680-3bed-11eb-8cd6-4f4ca95db791.png",
+            "title":"Data Lover",
+            "description":"Es una web page que brinda data y estadística básica sobre cada uno de los campeones de League of Legends.",
+            "herramientas":["Javascript","HTML","CSS","Figma","Jest"],
+            "link":"https://veroflores.github.io/Data-Lovers/src/"
+        }
+        
+    ],
+    "contact":[
+        {
+            "name":"github",
+            "link":"https://github.com/VeroFlores/",
+            "icon":"fab fa-github-square",
+            "userName":"VeroFlores"
+        }
+    ]
+}
