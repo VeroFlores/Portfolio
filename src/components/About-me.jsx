@@ -1,6 +1,6 @@
 import React from 'react';
 import photo from '../assets/images/profile.PNG';
-import curriculum from '../assets/dowload/Flores Cv.pdf'
+import curriculum from '../assets/dowload/VeroFloresCV.pdf';
 
 const AboutMe =()=>{
     return(

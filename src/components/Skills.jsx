@@ -14,7 +14,7 @@ const Skills =()=>{
                 </div>
                 <div className="col-lg-6 col-sm-12">
                     <p className="subtitle">Técnicas</p>
-                    <img src="https://user-images.githubusercontent.com/68167686/103464789-6256dd80-4d04-11eb-9f47-509f7d1b1493.png" className="img-fluid" alt="tech-skills"/>
+                    <img src="https://user-images.githubusercontent.com/68167686/109228488-e327d800-778f-11eb-8a3b-52da1bd79f38.png" className="img-fluid" alt="tech-skills"/>
                 </div>
             </div>
         </div>
