@@ -20,6 +20,13 @@
             "description":"Es un sistema de manejo de órdenes para un restaurante con funcionalidades para meseros y cocineros.",
             "herramientas":["Javascript","HTML","CSS","ReactJs","ReactDom","Firebase","Jest"],
             "link":"https://veroflores.github.io/LIM013-fe-burger-queen/"
+        },
+        {
+            "img":"https://user-images.githubusercontent.com/68167686/111561830-1ba14d00-8763-11eb-9006-92293a34ad54.png",
+            "title":"Petgram",
+            "description":"Es una App en la que podrás escoger tus mascotas favoritas",
+            "herramientas":["ReactJs","Styled-component","graphQl","Reach-Router"],
+            "link":"https://petgram-app-axnrojzjq-veroflores.vercel.app/"
         }
         
     ],
